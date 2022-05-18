@@ -1,0 +1,13 @@
+header {
+    font-size: 30px;
+    text-align: center;
+}
+
+#ad-image {
+    height: 30vh;
+    width: 40vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
